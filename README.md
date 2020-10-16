@@ -1,5 +1,11 @@
 This is an exercice from Udemy course https://www.udemy.com/course/complete-react-developer-zero-to-mastery
 
+Live here : https://philippemarcmeyer.github.io/monsters-rolodex/
+
+It uses a json api free service "jsonplaceholder" that may experiment some CORS errors from time to time
+If you see Cors errors just try later and it wil work
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
